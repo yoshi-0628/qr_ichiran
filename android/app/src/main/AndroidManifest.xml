@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.qr_ichiran">
+    package="com.yoshidev.qr_ichiran">
    <application
         android:label="qr_ichiran"
         android:name="${applicationName}"

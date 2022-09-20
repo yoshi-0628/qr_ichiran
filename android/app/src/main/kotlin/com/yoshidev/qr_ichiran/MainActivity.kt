@@ -1,4 +1,4 @@
-package com.example.qr_ichiran
+package com.yoshidev.qr_ichiran
 
 import io.flutter.embedding.android.FlutterActivity
 
