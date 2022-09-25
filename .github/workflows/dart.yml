@@ -12,8 +12,5 @@ jobs:
         uses: subosito/flutter-action@v1
         with:
           flutter-version: ${{ env.FLUTTER_VERSION }}
-
-      - name: Install dependencies
-        run: flutter pub get
       - name: Run tests
         run: flutter test test/util/StringUtil_test.dart
