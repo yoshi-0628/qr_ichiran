@@ -16,4 +16,4 @@ jobs:
       - name: PubGet
         run: flutter pub get
       - name: Run tests
-        run: flutter test test/util/StringUtil_test.dart
+        run: flutter test
