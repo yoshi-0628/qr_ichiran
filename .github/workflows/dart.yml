@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run tests
-        run: echo "ああああ"
+        run: flutter test test/util/StringUtil_test.dart
